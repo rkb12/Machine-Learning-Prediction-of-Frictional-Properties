@@ -1,0 +1,2 @@
+For predicting the target frictional properties of new materials, one can kept their data in this directory in the name of "X_new.csv". 
+Then by runing result.py and selecting the new data prediction option, one can see a new csv file in this directory, which will will contain X and predicted Y data.
