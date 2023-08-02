@@ -1,7 +1,7 @@
 # Machine-Learning-Prediction-of-Frictional-Properties
 This code is used for ML fitting and predicting the adhesion, corrugation, and van der Waals energy of bilayer materials. Bilayer materials are taken from our recently developed BMDB database (High Throughput Calculations of Bilayer Materials: BMDB Database. figshare. Dataset (2022), 2022-12-30 - First online date, URL https://doi.org/10.6084/m9.figshare.21799475, Sci. Data 10, 232 (2023)).
 
-N.B.: We used [scikit-learn](https://scikit-learn.org/stable/), [SHAP](https://pypi.org/project/shap/), [XGBoost](https://pypi.org/project/xgboost/), [python] (https://anaconda.org/anaconda/python), and python libraries like numpy, matplotlib, seaborn, pandas etc.
+N.B.: We used [scikit-learn](https://scikit-learn.org/stable/), [SHAP](https://pypi.org/project/shap/), [XGBoost](https://pypi.org/project/xgboost/), [python](https://anaconda.org/anaconda/python), and python libraries like numpy, matplotlib, seaborn, pandas etc.
 
 The following files are available for editing the code:
 
