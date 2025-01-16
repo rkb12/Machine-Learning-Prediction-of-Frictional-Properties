@@ -57,8 +57,6 @@ year = {2024},
 doi = {10.1021/acsami.4c05532},
     note ={PMID: 39016613},
 URL = { 
-    
-        https://doi.org/10.1021/acsami.4c05532
+https://doi.org/10.1021/acsami.4c05532
 }
 }
-
